@@ -7,5 +7,6 @@ Tools and technologies:
 2) Llama2
 3) Langchain
 4) Pinecone API
-5) NLP
-6) LLMs
+5) Hugging face
+6) NLP
+7) LLMs
